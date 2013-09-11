@@ -1,0 +1,21 @@
+{
+    "bibliotheque" : {
+        "album" : [
+            {
+                "titre" : "Another Brick In The Wall",
+                "groupe" : "Pink Floyd",
+                "annee" : "1988"
+            },
+            {
+                "titre" : "Tumult",
+                "groupe" : "The Ex",
+                "annee" : "1983"
+            },
+            {
+                "titre" : "Yanqui U.X.O.",
+                "groupe" : "Godspeed You! Black Emperor",
+                "annee" : "2002"
+            }
+        ]
+    }
+}
