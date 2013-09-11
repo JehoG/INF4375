@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<client>
+	<nom>Foo Bar</nom>
+	<adresse>
+		<numero>123</numero>
+		<rue>St-Denis</rue>
+		<code_postal>H5H 5H5</code_postal>
+	</adresse>
+	<telephone>514-555-5555</telephone>
+</client>
