@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<bibliotheque>
+	<album titre="Another brick in the wall">
+		<groupe>Pink Floyd</groupe>
+		<annee>1888</annee>
+	</album>
+	<album titre="Tumult">
+		<groupe>The Ex</groupe>
+		<annee>1983</annee>
+	</album>
+	<album titre="Yanqui U.X.O.">
+		<groupe>Godspeed You! Black Emperor</groupe>
+		<annee>2002</annee>
+	</album>
+</bibliotheque>
