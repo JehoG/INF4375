@@ -1,0 +1,22 @@
+{
+    "client": [
+        {
+            "nom": "Foo Bar",
+            "adresse": {
+                "numero": "123",
+                "rue": "St-Denis",
+                "code_postal": "H5H 5H5"
+            },
+            "telephone": "514-555-5555"
+        },
+        {
+            "nom": "Bar Foo",
+            "adresse": {
+                "numero": "456",
+                "rue": "St-Laurent",
+                "code_postal": "T4T 4T4"
+            },
+            "telephone": "514-666-6666"
+        }
+    ]
+}
